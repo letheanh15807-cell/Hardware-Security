@@ -21,6 +21,6 @@ Critical infrastructures are increasingly reliant on embedded systems, making th
 The simulation setup mimics a smart urban infrastructure node:
 
 * **Core Controller:** ESP32 (for Wi-Fi/BLE connectivity and hardware crypto support) & Arduino Nano/Uno (for peripheral control).
-* **Infrastructure Mockup:** * *Smart Grid Module:* Simulated power relays, current/voltage sensors, and automated load switching.
-    * *Traffic Control Module:* Multi-directional LED traffic lights with local sensor overrides.
+* **Infrastructure Mockup:** * Smart Grid Module: Simulated power relays, current/voltage sensors, and automated load switching.
+    * Traffic Control Module: Multi-directional LED traffic lights with local sensor overrides.
 * **Attack Interface:** An external node (Laptop / Raspberry Pi) executing network and physical layer exploits.
