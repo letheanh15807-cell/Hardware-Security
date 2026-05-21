@@ -5,7 +5,7 @@ An embedded security research project focused on building hardware-in-the-loop (
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Critical infrastructures are increasingly reliant on embedded systems, making them prime targets for cyber threats. This project designs and implements a micro-scale simulation using cost-effective microcontrollers (**ESP32 / Arduino**) to bridge the gap between cybersecurity theory and hardware reality. 
 
@@ -16,7 +16,7 @@ Critical infrastructures are increasingly reliant on embedded systems, making th
 
 ---
 
-## 🛠 Hardware Architecture
+## Hardware Architecture
 
 The simulation setup mimics a smart urban infrastructure node:
 
